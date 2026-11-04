@@ -8,8 +8,9 @@ capteurs d'un ESP32 et commande la caméra et une LED à distance.
 > Projet pédagogique (module IoT). Les données utilisées sont fictives.
 
 ## Démonstration
+[Guide de révision (PDF)](/Projet_ANPR_Guide.pdf)
 
-[Vidéo du dashboard](https://github.com/ManelHasni/ANPR_infruction/blob/main/preuves/Node-RED%20Dashboard.mp4) · [Guide de révision (PDF)](/Projet_ANPR_Guide.pdf)
+https://github.com/ManelHasni/ANPR_infruction/blob/main/preuves/Node-RED%20Dashboard.mp4
 
 ## Fonctionnement
 

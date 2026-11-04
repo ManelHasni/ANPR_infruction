@@ -9,7 +9,7 @@ capteurs d'un ESP32 et commande la caméra et une LED à distance.
 
 ## Démonstration
 
-[Vidéo du dashboard](LIEN_VIDEO) · [Guide de révision (PDF)](docs/Projet_ANPR_Guide.pdf)
+[Vidéo du dashboard](preuves/Node-RED Dashboard.mp4) · [Guide de révision (PDF)](/Projet_ANPR_Guide.pdf)
 
 ## Fonctionnement
 
